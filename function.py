@@ -30,7 +30,7 @@ print(album)
 album = make_album("Reshimiyya","Ashique banaya apne",'arya')
 print(album)
 
-passing the list to the function
+# passing the list to the function
 def show_message(messages):
     print("List of Mesaages are :")
     for message in messages:
