@@ -9,4 +9,4 @@ def func(x):
 
 y = print(list(map(func,i)))
 
-print([func(x) for x in i if x%2==0 ])
+print([func(x) for x in i if x%2==0 ]) 

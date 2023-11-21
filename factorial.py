@@ -7,4 +7,4 @@ else:
     while num >= 1:
         fact = fact * num
         num -=1
-    print("The Factorial of given number is ", fact)
+    print("The Factorial of given number is :",fact)
