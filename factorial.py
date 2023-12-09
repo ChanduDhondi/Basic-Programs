@@ -1,5 +1,5 @@
 #Factorial of given number
-num = int(input("please enter the number"))
+num = int(input("please enter the number : "))
 fact = 1
 if (num == 0):
     print("The Factorial of given number is 1")
