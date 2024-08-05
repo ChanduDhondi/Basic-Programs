@@ -60,9 +60,9 @@ class Patterns:
 
 if __name__ == '__main__':
     pattern = Patterns()
-    # pattern.hollowSquare(width=5,height=4)
-    # pattern.numberIncreasingPyramid(rows=5)
-    # pattern.numberIncreasingReversePyramid(5)
-    # pattern.numberChangingPyramid(5)
+    pattern.hollowSquare(width=5,height=4)
+    pattern.numberIncreasingPyramid(rows=5)
+    pattern.numberIncreasingReversePyramid(5)
+    pattern.numberChangingPyramid(5)
     pattern.zeroOneTriangle(5)
     
